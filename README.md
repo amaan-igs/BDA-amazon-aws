@@ -1,4 +1,4 @@
-# BDA-amazon-aws
+# CloudScale-Amazon-Insights
 
 This repository contains the analysis and visualization of Amazon product sales data using PySpark on AWS EMR and Databricks.
 
